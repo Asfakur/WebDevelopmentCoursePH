@@ -7,8 +7,10 @@ This is the second commit
 4)git pull
 
 
-3_& Create git branch---------------
+3_7 Create git branch---------------
 git branch my-first-branch
 git checkout -b my-second-branch
 
 ------------------------------------
+git commit -m"learning second branch"
+git push
