@@ -14,6 +14,7 @@ git checkout -b my-second-branch
 ------------------------------------
 git commit -m"learning second branch"
 <<<<<<< HEAD
+<<<<<<< HEAD
 git push
 
 ------------------
@@ -24,3 +25,9 @@ git push
 >>>>>>> my-second-branch
 
 3_8 advance Merge conflict and how to avoid it
+=======
+git push
+
+----------------
+changing something in the second branch
+>>>>>>> my-second-branch
