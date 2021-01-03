@@ -13,8 +13,14 @@ git checkout -b my-second-branch
 
 ------------------------------------
 git commit -m"learning second branch"
+<<<<<<< HEAD
 git push
 
 ------------------
 git branch
 git checkout main
+=======
+git push
+>>>>>>> my-second-branch
+
+3_8 advance Merge conflict and how to avoid it
