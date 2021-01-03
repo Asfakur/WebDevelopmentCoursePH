@@ -31,3 +31,5 @@ git push
 ----------------
 changing something in the second branch
 >>>>>>> my-second-branch
+
+3_9 common github related issues faced by new developer
