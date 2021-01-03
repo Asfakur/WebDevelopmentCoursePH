@@ -14,3 +14,6 @@ git checkout -b my-second-branch
 ------------------------------------
 git commit -m"learning second branch"
 git push
+
+----------------
+changing something in the second branch
